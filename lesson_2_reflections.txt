@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Whe  you initialize a repository you create a .git file to go along with your current set of files. You need to do this so that way you can later save your commits etc.
+
